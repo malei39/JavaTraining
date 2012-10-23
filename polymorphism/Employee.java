@@ -1,7 +1,7 @@
-
+ï»¿
 public abstract class Employee {
 
-    public Employee() { //ËäÈ»²»ÄÜÊµÀı»¯£¬µ«ÊÇÒ²±ØĞëÒªÓĞ¹¹ÔìÆ÷£¬ÒòÎª×ÓÀàĞèÒªµ÷ÓÃ
+    public Employee() { //è™½ç„¶ä¸èƒ½å®ä¾‹åŒ–ï¼Œä½†æ˜¯ä¹Ÿå¿…é¡»è¦æœ‰æ„é€ å™¨ï¼Œå› ä¸ºå­ç±»éœ€è¦è°ƒç”¨
     	System.out.println("dfdf");
     }
     
@@ -28,9 +28,9 @@ public abstract class Employee {
     	return age;
     }
     
-    public abstract void display();// ´Ë·½·¨±ØĞë±»×ÓÀà¸²Ğ´
+    public abstract void display();// æ­¤æ–¹æ³•å¿…é¡»è¢«å­ç±»è¦†å†™
     
-    public void empSay(){//¸¸ÀàÖĞµÄ·Ç³éÏó·½·¨¿ÉÒÔ²»ÓÃ¸²Ğ´
+    public void empSay(){//çˆ¶ç±»ä¸­çš„éæŠ½è±¡æ–¹æ³•å¯ä»¥ä¸ç”¨è¦†å†™
     	System.out.println("this is the employee to say function");
     }
     

@@ -1,9 +1,9 @@
-
+ï»¿
 public class Ploy {
     
     public static void main(String[] args) {
     	
-    	// Employee emp = new Employee(); ³éÏóÀà²»ÄÜÊµÀı»¯
+    	// Employee emp = new Employee(); æŠ½è±¡ç±»ä¸èƒ½å®ä¾‹åŒ–
     	Manager m = new Manager();
     	m.toSay();
     	m.empSay();

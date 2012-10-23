@@ -1,4 +1,4 @@
-
+ï»¿
 class Manager extends Employee{
 	private double bonus;
 
@@ -15,7 +15,7 @@ class Manager extends Employee{
 		System.out.println("this is a manager to say function");
 	}
 	
-	public void display(){//±ØĞë¸²Ğ´³éÏóÀàÖĞµÄ³éÏó·½·¨
+	public void display(){//å¿…é¡»è¦†å†™æŠ½è±¡ç±»ä¸­çš„æŠ½è±¡æ–¹æ³•
 		System.out.println("rewrite the father's function");
 	}
 	
