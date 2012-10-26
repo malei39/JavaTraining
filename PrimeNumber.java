@@ -1,9 +1,9 @@
-package cn.itcast;
+ï»¿package cn.itcast;
 
 public class PrimeNumber {
 
     /**
-     * ÌâÄ¿£ºÅĞ¶Ï101-200Ö®¼äÓĞ¶àÉÙ¸öËØÊı£¬²¢Êä³öËùÓĞËØÊı¡£
+     * é¢˜ç›®ï¼šåˆ¤æ–­101-200ä¹‹é—´æœ‰å¤šå°‘ä¸ªç´ æ•°ï¼Œå¹¶è¾“å‡ºæ‰€æœ‰ç´ æ•°ã€‚
      */
     public static void main(String[] args) {
         int count = 0;

@@ -1,7 +1,7 @@
-package cn.itcast;
+﻿package cn.itcast;
 /*
  * 
- * ��Ŀ�����������������Ƕ������ɴ��⣺ѧϰ�ɼ�>=90�ֵ�ͬѧ��A��ʾ��60-89��֮�����B��ʾ��60�����µ���C��ʾ��
+ * 题目：利用条件运算符的嵌套来完成此题：学习成绩>=90分的同学用A表示，60-89分之间的用B表示，60分以下的用C表示。
  */
 
 public class GradeLoop {
